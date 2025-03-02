@@ -3937,7 +3937,7 @@ input, select, textarea {
 	}
 
 		.video-thumbnail img:hover {
-			transform: scale(1.0035); /* Optional: Slight zoom effect on hover */
+			transform: scale(1.0075); /* Optional: Slight zoom effect on hover */
 		}
 
 	/* Applies to all images inside links (thumbnails & gallery images) */
@@ -3955,7 +3955,7 @@ input, select, textarea {
 		.thumbnail img:hover,
 		.video-thumbnail img:hover,
 		.gallery img:hover {
-			transform: scale(1.0035);
+			transform: scale(1.0075);
 		}
 
 
